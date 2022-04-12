@@ -1,2 +1,4 @@
-# solutions
-solution for Motorola Academy issue
+My adventure with programming began with the beginning of the technical school. This is where I got to know C++ and other programming languages. Even then, just writing the code gave me great pleasure. During my school years I had attended numerous programming courses, where I widened my knowledge. Currently I'm also attending the Back-End Developer course where I practise HTML, CSS, JavaScript. Moreover I get to know Node.js, MongoDB and GIT that I hope will be helpfull for me in the future. 
+For me cooding is not only a professional matter. In my opinion creating new programs is very interesing process because from a few lines of code you can create innovative solutions. What's more the results of work are clearly visible and could help people. 
+By this I belive that coding is not just thoughtless typing the lines of code. It allows you to use your imagination and knowledge to do important things. 
+That is why I associate coding with the pleasure od creating new programs, where I can expand my knowledge and develop my skills further.
